@@ -49,15 +49,15 @@ public class staticPractice {
             // obj2.price = 1299;
             // Mobile.name = "Smartphone";
 
-            // Mobile.name = "Phone";
+            Mobile.name = "Phone";
 
-            // System.out.println();
+            System.out.println();
 
-            // obj1.show();
+            obj1.show();
             // obj2.show();
 
            
-            // Mobile.show1(obj1);
+            Mobile.show1(obj1);
 
       }
 }
